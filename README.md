@@ -15,7 +15,7 @@ A skeleton and collection of packages for building websites.
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
 * Next, use your command line to enter your project directory.
   * If this a new project, start by cloning this repository `git clone git@github.com:jadedigital/jade-digital-boilerplate.git && rm -rf .git`. Update your `package.json` details file to suit your project.
-  * If this is an existing project, copy the contents of `"devDependencies"` into your `package.json`.
+  * If this is an existing project, copy the contents of `"devDependencies"` and `"scripts"` into your `package.json`.
 * Run `npm install` to install all of the dependencies into your project.
 * Copy or set up your files in the src folder.
 
